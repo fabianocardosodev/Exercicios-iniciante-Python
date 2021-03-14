@@ -11,4 +11,4 @@ n4 = eval(nota4)
 # faremos a média do total de notas
 med = (n1 + n2 + n3 + n4) / 4
 
-print('A média das notas nesse Bimestre é: ' , med )
+print('A média das notas nesse Bimestre é: ' , med)
