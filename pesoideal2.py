@@ -8,6 +8,6 @@ if sexo == 'h':
     peso = (72.7 * alt1) - 58
 else :
     peso = (62.1 * alt1) -44.7
-print("Seu peso ideal é: " , peso)
+print("Seu peso ideal é: " , peso )
 
 
