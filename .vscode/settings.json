@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "C:\\Users\\Jr França\\Anaconda3\\envs\\CursoIntenPython\\python.exe"
+    "python.pythonPath": "C:\\Users\\Jr França\\Anaconda3\\envs\\CursoIntenPython\\python.exe",
+    "cmake.configureOnOpen": true
 }
